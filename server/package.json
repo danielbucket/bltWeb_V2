@@ -1,0 +1,13 @@
+{
+	"name": "bltweb_v2_server",
+	"version": "0.1.0",
+	"scripts": {
+		"start": "nodemon server.js"
+	},
+  "dependencies": {
+    "express": "^4.16.2",
+    "knex": "^0.13.0",
+    "nodemon": "^1.12.1",
+    "pg": "^7.3.0"
+  }
+}
